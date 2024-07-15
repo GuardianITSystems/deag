@@ -1,4 +1,3 @@
-muse.krazzykriss.com
 apieventemitter.com
 omnatuor.com
 africa.thesmalladventureguide.com 
@@ -30,3 +29,5 @@ ut89.v.bsclink.cn
 googie-anaiytics.com
 polyfill.io.bsclink.cn
 frontendcodingtips.com
+success-software.biz 
+get-my-push.xyz
