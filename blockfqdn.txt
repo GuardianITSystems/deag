@@ -31,3 +31,4 @@ polyfill.io.bsclink.cn
 frontendcodingtips.com
 success-software.biz 
 get-my-push.xyz
+*.cyou
