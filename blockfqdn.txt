@@ -32,3 +32,13 @@ frontendcodingtips.com
 success-software.biz 
 get-my-push.xyz
 *.cyou
+dev-ns1.domaineasy.com
+dns17.hichina.com
+ns1.dyna-ns.net
+ddddns.net
+ns1.sedoparking.com
+gerardo.ns.cloudflare.com
+replacement,amh.com,13.107.253.40,us-smtp-inbound-1.mimecast.com,ns1-05.azure-dns.com
+transposition,myh.com,15.197.225.128,,ns17.domaincontrol.com
+omission,ahlaw.com,199.59.243.226,,ns1.bodis.com
+replacement,jahlax.com,192.64.119.8,,dns1.registrar-servers.com
