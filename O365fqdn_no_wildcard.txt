@@ -279,3 +279,7 @@ www.outlook.com
 www.sway.com
 yammer.com
 yammerusercontent.com
+login.mimecast.com
+webmail.mimecast.com
+monitor.mimecast.com
+mimecast.com
