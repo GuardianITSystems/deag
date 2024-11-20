@@ -9,6 +9,10 @@
 *.azure-apim.net
 *.azureedge.net
 *.azurerms.com
+*.bloomberg.net
+*.bloomberg.com
+*.blpprofessional.com
+*.btogo.com
 *.blob.core.windows.net
 *.cloud.microsoft
 *.compliance.microsoft.com
