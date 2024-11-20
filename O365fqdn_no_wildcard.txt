@@ -35,6 +35,10 @@ azureedge.net
 azurerms.com
 becws.microsoftonline.com
 blob.core.windows.net
+bloomberg-quant.com
+bsso.blpprofessional.com
+help.bquant.blpprofessional.com
+service.blpprofessional.com
 c.bing.com
 c.bing.net
 c.live.com
