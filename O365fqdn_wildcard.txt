@@ -109,6 +109,7 @@ accounts.accesscontrol.windows.net
 activation.sls.microsoft.com
 activity.windows.com
 adl.windows.com
+admin.exchange.microsoft.com
 admin.microsoft.com
 admin.onedrive.com
 adminwebservice.microsoftonline.com
