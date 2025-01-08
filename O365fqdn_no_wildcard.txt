@@ -9,6 +9,7 @@ activity.windows.com
 adl.windows.com
 admin.microsoft.com
 admin.onedrive.com
+admin.exchange.microsoft.com
 adminwebservice.microsoftonline.com
 ajax.aspnetcdn.com
 aka.ms
