@@ -8,7 +8,6 @@ premium.davidabostic.com
 memoryloader.com
 responsiveuikit.com
 krazzykriss.com
-polyfill.io
 staticfile.org
 staticfile.net
 fzg999.com
@@ -19,12 +18,10 @@ terncent.com
 xhsbpza.com
 staticsfile.org
 polyfill.com
-cdn.polyfill.io
 kuurza.com
 ut89.v.bsclink.cn
 5f52353c.u.fn03.vip
 googie-anaiytics.com
-polyfill.io.bsclink.cn
 frontendcodingtips.com
 success-software.biz 
 get-my-push.xyz
@@ -50,4 +47,3 @@ jahlax.com
 kuurza.com
 marvin-occentus.net
 bestresultstostart.com
-ipify.org
