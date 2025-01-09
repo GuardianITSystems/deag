@@ -12,7 +12,6 @@ polyfill.io
 staticfile.org
 staticfile.net
 fzg999.com
-bootcdn.net
 union.macoms.la
 newcrbpc.com
 bootcss.com
