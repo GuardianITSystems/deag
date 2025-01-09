@@ -17,7 +17,6 @@ union.macoms.la
 newcrbpc.com
 bootcss.com
 terncent.com
-bootcdn.cn
 xhsbpza.com
 staticsfile.org
 polyfill.com
