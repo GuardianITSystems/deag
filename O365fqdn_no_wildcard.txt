@@ -293,3 +293,10 @@ app.officeapps.live.com
 join.secure.skypeassets.com
 oneocsp.microsoft.com
 purview.microsoft.com
+cdn.onenote.net
+msidentity.com
+svc.ms
+teams.cloud.microsoft
+usercontent.microsoft
+service.trust.microsoft.com
+security.microsoft.com
