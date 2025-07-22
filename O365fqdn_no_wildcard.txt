@@ -289,3 +289,7 @@ webmail.mimecast.com
 monitor.mimecast.com
 mimecast.com
 ups.com
+app.officeapps.live.com
+join.secure.skypeassets.com
+oneocsp.microsoft.com
+purview.microsoft.com
