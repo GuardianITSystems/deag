@@ -28,7 +28,7 @@
 *.teams.microsoft.com
 *.virtualearth.net
 *.wns.windows.com
-*cdn.onenote.net
+*.cdn.onenote.net
 activation.sls.microsoft.com
 ajax.aspnetcdn.com
 c.bing.net
