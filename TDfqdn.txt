@@ -19,3 +19,7 @@ rrws-use1.cylance.com
 collector.cylance.com
 scalar-api-use1.cylance.com
 cement.cylance.com
+tools.tetradefense.com
+ingress3.tetradefense.com
+ingress4.tetradefense.com
+ingress5.tetradefense.com
