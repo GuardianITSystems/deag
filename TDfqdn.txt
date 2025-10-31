@@ -24,3 +24,10 @@ ingress3.tetradefense.com
 ingress4.tetradefense.com
 ingress5.tetradefense.com
 *.teamviewer.com
+captureclient-36.sonicwall.com
+captureclient-36eu.sonicwall.com
+captureclient.sonicwall.com
+sonicwall.sentinelone.net
+euce1-sonicwall.sentinelone.net
+software.sonicwall.com
+sonicsandbox.global.sonicwall.com
