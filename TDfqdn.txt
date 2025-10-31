@@ -72,3 +72,4 @@ statuse.digitalcertvalidation.com
 statusf.digitalcertvalidation.com
 statush.digitalcertvalidation.com
 www.public-trust.com
+concord-ips.centrastage.net
