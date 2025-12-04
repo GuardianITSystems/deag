@@ -57,3 +57,5 @@ ngrok.com
 audienceexposure.com
 quanthic.cloud
 jahlwa.com
+content-website-analytics.com
+git[.]zionministry.org
