@@ -300,3 +300,5 @@ teams.cloud.microsoft
 usercontent.microsoft
 service.trust.microsoft.com
 security.microsoft.com
+huntressedrue2.blob.core.windows.net
+huntresssiemue2.blob.core.windows.net
