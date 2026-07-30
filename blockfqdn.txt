@@ -63,3 +63,5 @@ officxe.com
 forms.officxe.com
 createssopasskey.com
 *.createssopasskey.com
+falfiurrias.com
+*.falfiurrias.com
